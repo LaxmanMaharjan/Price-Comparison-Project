@@ -1,0 +1,11 @@
+Set-Cookie: ci_session=482c14dafeea25d5670adf3a25ac8e62319704c0; expires=Fri, 15-May-2020 14:13:42 GMT; path=/; HttpOnly; secure
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Date: Fri, 15 May 2020 12:13:42 GMT
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000
+Vary: Accept-Encoding
+Alt-Svc: quic=":443"; ma=2592000; v="43,46", h3-Q043=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-25=":443"; ma=2592000, h3-27=":443"; ma=2592000
